@@ -31,6 +31,8 @@ Swiggy-2.0-UX-Case-Study/
 ## 🔗 Want the TL;DR?
 See how funny quotes + minimal games + emotional design can increase food app engagement.  
 Check the full documentation → Please visit Linkedin and Medium.
+
+
 In the meantime, kindly fill this survey - https://forms.gle/3Rm4gk51h4yUstV59 (will take 2 minutes max)
 
 ---
@@ -38,3 +40,7 @@ In the meantime, kindly fill this survey - https://forms.gle/3Rm4gk51h4yUstV59 (
 ## 📬 Feedback
 Open to collaborations, suggestions, or UX/game/app ideas you’d like to see explored!
 Have more ideas? Lets connect over Linkedin and make it happen. 
+
+🛡️ This is a protected concept project.  
+Viewing is welcome — but **forking, reuploading, or reusing any part** of this without permission is not allowed.  
+© 2025 Anshika. All rights reserved.
